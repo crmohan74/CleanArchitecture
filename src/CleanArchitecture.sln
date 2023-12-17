@@ -5,13 +5,13 @@ VisualStudioVersion = 17.6.33829.357
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Service", "Service", "{D2AF700C-E628-4D54-AE08-DB3BC99FF61E}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Kanini.API", "Kanini.API\Kanini.API.csproj", "{AF3490FD-AE5B-401B-BFEE-2E1884EE2A2B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SampleProject.API", "SampleProject.API\SampleProject.API.csproj", "{AF3490FD-AE5B-401B-BFEE-2E1884EE2A2B}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Kanini.Application", "Kanini.Application\Kanini.Application.csproj", "{452962E8-852F-4289-9432-E4B58CFDD116}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SampleProject.Application", "SampleProject.Application\SampleProject.Application.csproj", "{452962E8-852F-4289-9432-E4B58CFDD116}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Kanini.Core", "Kanini.Core\Kanini.Core.csproj", "{886688D2-9F06-46F4-9850-5387C02FAC5F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SampleProject.Core", "SampleProject.Core\SampleProject.Domain.csproj", "{886688D2-9F06-46F4-9850-5387C02FAC5F}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Kanini.Infrastructure", "Kanini.Infrastructure\Kanini.Infrastructure.csproj", "{9EE076B7-333F-4767-B468-284818855B8A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SampleProject.Infrastructure", "SampleProject.Infrastructure\SampleProject.Infrastructure.csproj", "{9EE076B7-333F-4767-B468-284818855B8A}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{24A83527-7DC0-4513-A745-024168B0EFD7}"
 EndProject
